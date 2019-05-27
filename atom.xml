@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://voidust.github.io</id>
-    <title>Voidust</title>
-    <updated>2019-05-27T09:25:22.447Z</updated>
+    <id>https://lionnz.github.io</id>
+    <title>lionnz</title>
+    <updated>2019-05-27T09:49:16.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://voidust.github.io"/>
-    <link rel="self" href="https://voidust.github.io/atom.xml"/>
+    <link rel="alternate" href="https://lionnz.github.io"/>
+    <link rel="self" href="https://lionnz.github.io/atom.xml"/>
     <subtitle>O ever youthful, O ever weeping.</subtitle>
-    <logo>https://voidust.github.io/images/avatar.png</logo>
-    <icon>https://voidust.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Voidust</rights>
+    <logo>https://lionnz.github.io/images/avatar.png</logo>
+    <icon>https://lionnz.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2019, lionnz</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://voidust.github.io/post/hello-gridea</id>
-        <link href="https://voidust.github.io/post/hello-gridea">
+        <id>https://lionnz.github.io/post/hello-gridea</id>
+        <link href="https://lionnz.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
